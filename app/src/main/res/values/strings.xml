@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CatChat</string>
+    <string name="user_name">Kukusya@catchat.com</string>
+    <string name="nav_inbox">Messagez</string>
+    <string name="nav_draft">Draftz</string>
+    <string name="nav_sent">Sent messagez</string>
+    <string name="nav_trash">In da trash</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_help">Halp</string>
+    <string name="nav_feedaback">Giv us feedback</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+</resources>
